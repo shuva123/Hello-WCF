@@ -1,0 +1,8 @@
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\bin\Debug\ServiceHost.exe.config
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\bin\Debug\ServiceHost.exe
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\bin\Debug\ServiceHost.pdb
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\bin\Debug\HelloWCFService1.dll
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\bin\Debug\HelloWCFService1.pdb
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\obj\Debug\ServiceHost.exe
+D:\379982\Study\Projects\HelloWCFService\ServiceHost\obj\Debug\ServiceHost.pdb

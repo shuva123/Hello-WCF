@@ -1,0 +1,5 @@
+D:\379982\Study\Projects\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.dll.config
+D:\379982\Study\Projects\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.dll
+D:\379982\Study\Projects\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.pdb
+D:\379982\Study\Projects\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.dll
+D:\379982\Study\Projects\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.pdb
